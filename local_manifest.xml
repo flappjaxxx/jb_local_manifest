@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="flappjaxxx/android_device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="jellybean" />
+  <project name="flappjaxxx/android_device_samsung_quincy-common" path="device/samsung/quincy-common" remote="github" revision="jellybean" />
+  <project name="flappjaxxx/android_kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="jellybean" />
+  <project name="flappjaxxx/android_device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="jellybean" />
+  <project name="flappjaxxx/vendor_samsung_quincyatt" path="vendor/samsung/quincyatt" remote="github" revision="jellybean" />
+  <project name="CyanogenMod/android_device_samsung_maguro" path="device/samsung/maguro" remote="github" revision="jellybean" />
+  <project name="flappjaxxx/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="jellybean" />
+  <project name="flappjaxxx/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="jb" />
+  <project name="flappjaxxx/vendor_samsung_maguro" path="vendor/samsung/maguro" remote="github" revision="jellybean" />
+</manifest>
