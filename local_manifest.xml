@@ -9,4 +9,6 @@
   <project name="flappjaxxx/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="jellybean" />
   <project name="flappjaxxx/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="jb" />
   <project name="flappjaxxx/vendor_samsung_maguro" path="vendor/samsung/maguro" remote="github" revision="jellybean" />
+  <project name="CyanogenMod/android_device_samsung_hercules" path="device/samsung/hercules" remote="github" revision="jellybean" />
+  <project name="CyanogenMod/android_device_samsung_skyrocket" path="device/samsung/skyrocket" remote="github" revision="jellybean" />
 </manifest>
