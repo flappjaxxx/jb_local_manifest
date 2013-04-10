@@ -5,5 +5,8 @@
   <project name="flappjaxxx/android_kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="cm-10.1" />
   <project name="flappjaxxx/android_device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="cm-10.1" />
   <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-10.1" />
+  <project name="flappjaxxx/rk3066-kernel" path="kernel/rockchip" remote="github" revision="master" />
+  <project name="flappjaxxx/android_device_rockchip" path="device/rockchip" remote="github" revision="mk808" />
+  <project name="flappjaxxx/android_vendor_rockchip" path="vendor" remote="github" revision="mk808" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-10.1" />
 </manifest>
